@@ -2,3 +2,4 @@ venv
 .pytest_cachegi
 .idea
 reports
+__pycache__
