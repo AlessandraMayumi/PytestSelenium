@@ -1,6 +1,7 @@
-"""import time
+import time
 from selenium.webdriver.common.keys import Keys
 from selenium.webdriver.common.action_chains import ActionChains
+
 
 def test_open_url(browser):
     browser.get("https://www.lambdatest.com/")
@@ -18,7 +19,7 @@ def test_login(browser):
 
 
 def test_letras_mus(browser):
-    browser .get('https://www.letras.mus.br/')
+    browser.get('https://www.letras.mus.br/')
 
     # find and click in an icon then return to the previous page
     element = browser.find_element_by_css_selector('a[data-slug="rock"]')
@@ -71,7 +72,7 @@ def test_cart(browser):
         scroll = browser.execute_script("arguments[0].scrollIntoView();", product_container)
         try:
             # hover over product container
-            hover = ActionChains(driver)
+            hover = ActionChains(browser)
             hover.move_to_element(product_container)
             hover.perform()
             time.sleep(1)
@@ -96,4 +97,4 @@ def test_cart(browser):
     cart_total = quantity.get_attribute("textContent")
     containers_total = str(expect_total)
 
-    assert cart_total == containers_total"""
+    assert cart_total == containers_total
