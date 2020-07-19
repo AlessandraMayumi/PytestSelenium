@@ -1,5 +1,5 @@
 venv
-.pytest_cachegi
+.pytest_cache
 .idea
 reports
 __pycache__

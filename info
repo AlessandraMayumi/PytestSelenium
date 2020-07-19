@@ -1,5 +1,0 @@
-https://www.lambdatest.com/blog/test-automation-using-pytest-and-selenium-webdriver/
-https://blog.testproject.io/2019/07/16/web-ui-testing-python-pytest-selenium-webdriver/  
-
-pytest --capture=no --verbose --html=pytest_selenium_test_report.html
-pip install -e
