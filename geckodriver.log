@@ -1,0 +1,78 @@
+1595117786036	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileJr9fp7"
+1595117791884	Marionette	INFO	Listening on port 45413
+1595117791978	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 281: NS_ERROR_FAILURE: Should pass a non-null uri
+1595117797781	Marionette	INFO	Stopped listening on port 45413
+1595117807391	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileGTQIZh"
+1595117812306	Marionette	INFO	Listening on port 37031
+1595117812324	Marionette	WARN	TLS certificate errors will be ignored for this session
+1595117829304	Marionette	INFO	Stopped listening on port 37031
+1595118187902	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileesrfL9"
+1595118192667	Marionette	INFO	Listening on port 38187
+1595118192735	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 281: NS_ERROR_FAILURE: Should pass a non-null uri
+1595118198513	Marionette	INFO	Stopped listening on port 38187
+1595118207905	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile3cIXza"
+1595118212724	Marionette	INFO	Listening on port 35423
+1595118212733	Marionette	WARN	TLS certificate errors will be ignored for this session
+1595118219356	Marionette	INFO	Stopped listening on port 35423
+1595118360318	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileekYnul"
+1595118365499	Marionette	INFO	Listening on port 37281
+1595118365564	Marionette	WARN	TLS certificate errors will be ignored for this session
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+Exiting due to channel error.
+1595118385083	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile1wTy85"
+1595118390218	Marionette	INFO	Listening on port 46597
+1595118390324	Marionette	WARN	TLS certificate errors will be ignored for this session
+1595118396499	Marionette	INFO	Stopped listening on port 46597
+1595118417914	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilegZPumV"
+1595118423044	Marionette	INFO	Listening on port 35219
+1595118423144	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 281: NS_ERROR_FAILURE: Should pass a non-null uri
+1595118423576	Marionette	INFO	Stopped listening on port 35219
+JavaScript error: resource://gre/modules/UrlClassifierListManager.jsm, line 691: TypeError: this.tablesData[table] is undefined
+1595118438081	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilelvZ99p"
+1595118442847	Marionette	INFO	Listening on port 43479
+1595118442911	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 281: NS_ERROR_FAILURE: Should pass a non-null uri
+1595118443368	Marionette	INFO	Stopped listening on port 43479
+JavaScript error: resource://gre/modules/UrlClassifierListManager.jsm, line 691: TypeError: this.tablesData[table] is undefined
+1595118452211	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileAnhXlU"
+1595118456859	Marionette	INFO	Listening on port 45743
+1595118456954	Marionette	WARN	TLS certificate errors will be ignored for this session
+1595118463385	Marionette	INFO	Stopped listening on port 45743
+1595118485242	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileWRy7x1"
+1595118490084	Marionette	INFO	Listening on port 38861
+1595118490182	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 281: NS_ERROR_FAILURE: Should pass a non-null uri
+1595118495528	Marionette	INFO	Stopped listening on port 38861
+1595118506295	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileZTFycE"
+1595118513458	Marionette	INFO	Listening on port 38999
+1595118513556	Marionette	WARN	TLS certificate errors will be ignored for this session
+1595118523089	Marionette	INFO	Stopped listening on port 38999
+1595118970158	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile9cIKBm"
+1595118974919	Marionette	INFO	Listening on port 41247
+1595118974993	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 281: NS_ERROR_FAILURE: Should pass a non-null uri
+1595118983939	Marionette	INFO	Stopped listening on port 41247
+1595118999898	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileHvY5GS"
+1595119004578	Marionette	INFO	Listening on port 38841
+1595119004635	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 281: NS_ERROR_FAILURE: Should pass a non-null uri
+1595119010156	Marionette	INFO	Stopped listening on port 38841
+1595119025315	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile6jZeOc"
+1595119030112	Marionette	INFO	Listening on port 44845
+1595119030139	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 281: NS_ERROR_FAILURE: Should pass a non-null uri
+JavaScript warning: https://duckduckgo.com/d2826.js, line 1: unreachable code after return statement
+JavaScript warning: https://duckduckgo.com/d2826.js, line 1: unreachable code after return statement
+JavaScript warning: https://duckduckgo.com/d2826.js, line 1: unreachable code after return statement
+JavaScript warning: https://duckduckgo.com/d2826.js, line 1: unreachable code after return statement
+JavaScript warning: https://duckduckgo.com/d2826.js, line 1: unreachable code after return statement
+JavaScript warning: https://duckduckgo.com/d2826.js, line 1: unreachable code after return statement
+JavaScript warning: https://duckduckgo.com/d2826.js, line 1: unreachable code after return statement
+JavaScript warning: https://duckduckgo.com/d2826.js, line 1: unreachable code after return statement
+JavaScript warning: https://duckduckgo.com/d2826.js, line 1: unreachable code after return statement
+1595119034056	Marionette	INFO	Stopped listening on port 44845
