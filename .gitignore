@@ -1,2 +1,4 @@
-.pytest_cache
 venv
+.pytest_cachegi
+.idea
+reports
